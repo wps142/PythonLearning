@@ -18,3 +18,5 @@ print('ABCDEFG'[:3])
 print('ABCDEFG'[::2])
 print('ABCDEFG'[::-1])  # 字符串倒序
 
+
+print(list(range(100))[1::2])
